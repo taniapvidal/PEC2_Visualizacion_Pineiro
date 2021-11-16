@@ -18,7 +18,7 @@ Un cartograma es un mapa en el que se distorsiona la geometría de las regiones 
 
 En la siguiente visualización se representa, empleando un cartograma, el número de casos positivos en Covid por cada provincia en los últimos 14 días (01-14 Noviembre 2021)
 
-https://github.com/taniapvidal/PEC2_Visualizacion_Pineiro/blob/main/Cartrogram.PNG
+![cartogram]https://github.com/taniapvidal/PEC2_Visualizacion_Pineiro/blob/main/Cartrogram.PNG
 
 ## 3. Gráfico Beeswarm
 
