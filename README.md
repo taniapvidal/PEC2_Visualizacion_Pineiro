@@ -14,6 +14,11 @@ En ella se representan, empleando un dendrograma, los países de la Unión Europ
 
 ## 2. Cartogram
 
+Un cartograma es un mapa en el que se distorsiona la geometría de las regiones para transmitir la información de una variable alternativa. El área de la región se inflará o desinflará de acuerdo con su valor numérico.Para esta visualización se ha empleado un conjunto de datos disponible en la web del Centro Nacional de Epidemiología (https://cnecovid.isciii.es/covid19/#documentaci%C3%B3n-y-datos).
+
+En la siguiente visualización se representa, empleando un cartograma, el número de casos positivos en Covid por cada provincia en los últimos 14 días (01-14 Noviembre 2021)
+
+https://github.com/taniapvidal/PEC2_Visualizacion_Pineiro/blob/main/Cartrogram.PNG
 
 ## 3. Gráfico Beeswarm
 
