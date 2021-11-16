@@ -1,1 +1,2 @@
-# PEC2_Visualizacion_Pineiro
+PEC2 Visualizacion de datos
+Alumna: Tania Piñeiro
